@@ -1,0 +1,18 @@
+.body-background
+{
+	background-image:url("bdac327b05ddaa05216dfa08c9e734c3.jpg") ;
+	background-size:cover;
+	background-position:unset;
+}
+.login_div
+	{
+		background: rgb(255, 255, 255);
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+		width: 700px;
+	}
+#btn_1{
+	background-color:rgb(244, 70, 212) ;
+	display:inline;
+}
